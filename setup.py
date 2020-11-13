@@ -14,7 +14,6 @@ setup(
     author="RATISH JINDAL",
     author_email="JINDALRATISH@gmail.com",
     url = 'https://github.com/zeearo/TOPSIS_THAPAR',
-    download_url ='https://github.com/gpriya32/TOPSIS-PriyankaGupta-101803006/archive/1.0.0.tar.gz',
     license="MIT",
     packages=["src"],
     include_package_data=True,
